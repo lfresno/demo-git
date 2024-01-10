@@ -9,5 +9,5 @@ I'm learning how to use git from the command line.
 Update made in remote from master before rebase.
 
 
-random text
-idk
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+THIS WILL CAUSE PROBLEMS
