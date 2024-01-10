@@ -7,3 +7,7 @@ It's being used for testing.
 I'm learning how to use git from the command line.
 
 Update made in remote from master before rebase.
+
+
+random text
+idk
