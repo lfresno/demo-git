@@ -9,7 +9,6 @@ I'm learning how to use git from the command line.
 Update made in remote from master before rebase.
 
 
-random text
+## Getting started.
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAA
-THIS WILL CAUSE PROBLEMS
+In this section you would find how to get started with this project. This is only being used for practice.
